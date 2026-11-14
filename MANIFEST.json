@@ -1,0 +1,957 @@
+{
+  "generator": "split_assets.py",
+  "chunk_bytes": 47185920,
+  "repos": [
+    "mhls1",
+    "mhls2",
+    "mhls3"
+  ],
+  "subdir": "parts",
+  "files": [
+    {
+      "name": "tom_apk.zip",
+      "size": 1913796091,
+      "parts": [
+        {
+          "n": 1,
+          "file": "tom_apk.part001",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "8cb77d36f355de718b3a95668f5ac4d025107ad6ddb09aa701062acb3a68cf21"
+        },
+        {
+          "n": 2,
+          "file": "tom_apk.part002",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "be48c0dc3d8b9abe4efd2b1f289161370bf9eb669c44bb23f374eb84251b7dc1"
+        },
+        {
+          "n": 3,
+          "file": "tom_apk.part003",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "4da363642cbc1e6e0a521fd72fcdb50782274c994c2bb837aa10130a30403fbc"
+        },
+        {
+          "n": 4,
+          "file": "tom_apk.part004",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "3188fa3efefe646c55392d927b647ec1629c98b69e590394ad2c8bf6742eb50f"
+        },
+        {
+          "n": 5,
+          "file": "tom_apk.part005",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "2e1dcdb6137641cc7300e08145459090c68802af79f72d45eeb55900c0e21b2d"
+        },
+        {
+          "n": 6,
+          "file": "tom_apk.part006",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "ce77c6511f70e40d9fd4893b943b6229a6cb4498cbb9f2a42a57062ea9995bfc"
+        },
+        {
+          "n": 7,
+          "file": "tom_apk.part007",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "d7da59700b3a4c348b33d87b70ce794e137b0e8d914f44d66fb77c185609428e"
+        },
+        {
+          "n": 8,
+          "file": "tom_apk.part008",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "ea5c3c5fa54da05f910fb68163bafa4933b6ff28e57e4e5658fffcf1a5956af4"
+        },
+        {
+          "n": 9,
+          "file": "tom_apk.part009",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "f1ec653b018c162daa0d2939f58b1755901ae4cdb9e43d6914ce425d6ed10245"
+        },
+        {
+          "n": 10,
+          "file": "tom_apk.part010",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "1814efab7a781e48d9c1ae598c873ffbaf5a588717a8e389416fb82912da61af"
+        },
+        {
+          "n": 11,
+          "file": "tom_apk.part011",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "cedaaf44d4d997444771cdb1e0bea25ace526e5213599992e5e7880c19cb21d1"
+        },
+        {
+          "n": 12,
+          "file": "tom_apk.part012",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "64168d28033aacda572d614ab27ddd6eea4e66c21ef6cce3ae8bd6a54516bf92"
+        },
+        {
+          "n": 13,
+          "file": "tom_apk.part013",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "db055d65d86bca47c41c6e74846b5fa9b1176e03f979ee1f1f62ade7c183bea5"
+        },
+        {
+          "n": 14,
+          "file": "tom_apk.part014",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "95ee9f3f6f4a55bf7a777349ffabce7951387909c77ae5216b808689455223e9"
+        },
+        {
+          "n": 15,
+          "file": "tom_apk.part015",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "7cad0a061b7bb140ee3abd8d54bce17fcb31950d9b2f26a34aa0dc5335fa1268"
+        },
+        {
+          "n": 16,
+          "file": "tom_apk.part016",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "1c3a5015bb4771d307e2438b821b1ec4ea4074b96e7d4a24e59b29952f6c4f5f"
+        },
+        {
+          "n": 17,
+          "file": "tom_apk.part017",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "211177950ea194aefe17ae4d2b86ae26675b22e9c7fb8039484b52e65ba0597c"
+        },
+        {
+          "n": 18,
+          "file": "tom_apk.part018",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "e9a6bfc683e2f20f9bbe4c6dff423db6c42152a7e6e4bf84e78db1a0a8438344"
+        },
+        {
+          "n": 19,
+          "file": "tom_apk.part019",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "75661377be3d00fafe0b3080e811cbf6cca7d426ed50382b0d7627f8e6d1e3b6"
+        },
+        {
+          "n": 20,
+          "file": "tom_apk.part020",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "c7c64cc891f10305361a6f948791c21510e49ce8114dd5533b9a2e2b09df4220"
+        },
+        {
+          "n": 21,
+          "file": "tom_apk.part021",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "f152d9448f64b18531d68fa89121d67e322436d7fdbf271183a1c35499644651"
+        },
+        {
+          "n": 22,
+          "file": "tom_apk.part022",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "43ee9108bcacf9aac732358086f49d3d46c74a99c431539573d9f627c09b22b2"
+        },
+        {
+          "n": 23,
+          "file": "tom_apk.part023",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "a835d55e4992c35f409ae818e8bcb55b2ba13b171075f55c3057934470b20c4e"
+        },
+        {
+          "n": 24,
+          "file": "tom_apk.part024",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "c84a152a47303fb756b0b4421889c106111af5a1581aa5a1fb18b31fe9f80887"
+        },
+        {
+          "n": 25,
+          "file": "tom_apk.part025",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "e9068aa5c1062ca607810c641be886a06931a81d42aa89bcf5636b17f646dfc7"
+        },
+        {
+          "n": 26,
+          "file": "tom_apk.part026",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "6d97361a5de13d6a15e26dabdebad170e3a3ad62c4ba94f417c6dca049cece85"
+        },
+        {
+          "n": 27,
+          "file": "tom_apk.part027",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "73d0658d22b548ef70ec3d7c51b3f90d155450edf46b8526308fe9a2c534b4a7"
+        },
+        {
+          "n": 28,
+          "file": "tom_apk.part028",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "cb6ae24139dac7de9a5f5911a3c3ed93eb8cbbdfa74b3d5e9ee7bf74b098b100"
+        },
+        {
+          "n": 29,
+          "file": "tom_apk.part029",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "ef9380eeda1fa9948e6073358e68b04191d0d62803136ded14c283acde5a1a9a"
+        },
+        {
+          "n": 30,
+          "file": "tom_apk.part030",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "a8af43fea7e13c075d6aa3deaf0051f77a5ef29a5f718e4a934a721532be9ffc"
+        },
+        {
+          "n": 31,
+          "file": "tom_apk.part031",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "b7832cf5f7c2b39d8367c00ed3568f4c4ff62281c99794ef1e8b217f35a8b9cd"
+        },
+        {
+          "n": 32,
+          "file": "tom_apk.part032",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "9d39f55b61ac17ea105dc6877f478ce369bb1de8e4428fc0387be0739b3df42a"
+        },
+        {
+          "n": 33,
+          "file": "tom_apk.part033",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "e8ab1e8475d27bc1d5e06ffca90d29bf3c76bae3a2225351ea2c92152d6a05c2"
+        },
+        {
+          "n": 34,
+          "file": "tom_apk.part034",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "c412a214be981f045bf5ce7a1c14d0ce5336944138a8f2f4228dd30095fec137"
+        },
+        {
+          "n": 35,
+          "file": "tom_apk.part035",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "48fa0c8733fa2e50452d8c37952977eee0619b6bc212ef5dd6663352046d37b1"
+        },
+        {
+          "n": 36,
+          "file": "tom_apk.part036",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "18a13bcee540632abffafff0dd9a4c7c007f5d74e5523a52d6e1e01e4c99b7cc"
+        },
+        {
+          "n": 37,
+          "file": "tom_apk.part037",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "fd0c94cce9e618613acc0391371f1e7c512fbaef27026043413dd719f4dcc7b6"
+        },
+        {
+          "n": 38,
+          "file": "tom_apk.part038",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "9dca3e4c1bfb11412c56ada36021ba0073476b61128cdd93ec64a32399758410"
+        },
+        {
+          "n": 39,
+          "file": "tom_apk.part039",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "11a30927c8af663ce8869fe6d27ad7c9333e498246b35748b3ca947660973832"
+        },
+        {
+          "n": 40,
+          "file": "tom_apk.part040",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "97d6e2da71f9744e5c78f057c348a61207a586c33c42a9cc7f1d6fbdaa4a173d"
+        },
+        {
+          "n": 41,
+          "file": "tom_apk.part041",
+          "repo": "mhls1",
+          "size": 26359291,
+          "sha256": "fde20523193d607cfcea9871af7c87a413119e1d07b10a648c40f7f6351cddda"
+        }
+      ],
+      "sha256": "ab2dd99bd80fb4a5be2caa064137dcc82a8e1ad01fc5fbb7cb36c4b39505d872"
+    },
+    {
+      "name": "device_base.apk",
+      "size": 1913503952,
+      "parts": [
+        {
+          "n": 1,
+          "file": "device_base.part001",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "ec3a0cde2dc6ef51315f974d2e5ed2b16408849d4abfc4a99de9bf2dc286a16f"
+        },
+        {
+          "n": 2,
+          "file": "device_base.part002",
+          "repo": "mhls1",
+          "size": 47185920,
+          "sha256": "24e8cb71c51ce317c13aa65422bbf7b264a03b923e6bb7c1d0e632425d69884a"
+        },
+        {
+          "n": 3,
+          "file": "device_base.part003",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "ce417ade9f95185437b41d919697b4bf68e571c96ae55ab16898a82ffb97c302"
+        },
+        {
+          "n": 4,
+          "file": "device_base.part004",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "8f2896ac3b2b42d6aae6cf835bdb9193f2453dee177e020628cb0d81ccdd8371"
+        },
+        {
+          "n": 5,
+          "file": "device_base.part005",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "316448dc41e1744f13357a0d020cc54b74096ca1013d91598d3fa98cb95a8d4f"
+        },
+        {
+          "n": 6,
+          "file": "device_base.part006",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "17ddbf5f476c685886755fce302985224d5c6eb040610d25ce5f405e7834715d"
+        },
+        {
+          "n": 7,
+          "file": "device_base.part007",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "1984e782914b5cf29f8660747a4be36338e8666cad686cf609087605b9b104a2"
+        },
+        {
+          "n": 8,
+          "file": "device_base.part008",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "634d58fbbbb87a911c74b054dfa7d509d80c1a0dd21218f87f797fea57326662"
+        },
+        {
+          "n": 9,
+          "file": "device_base.part009",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "9925eef06108743bf0bfc74d8af65acb83e1bd14b11c45ea1eed22cee7b7c2f3"
+        },
+        {
+          "n": 10,
+          "file": "device_base.part010",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "49d01c12fcfa284cb4a3f7dfd095969b5a504b75a28ac794e48af26a1373c5d1"
+        },
+        {
+          "n": 11,
+          "file": "device_base.part011",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "d887582d8b7b27be2cdc4f0bc3ce7f62027da10443d239927d4c58ff2e3de71b"
+        },
+        {
+          "n": 12,
+          "file": "device_base.part012",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "6115133c7e0409ff0c9eaf2e433eb67640ac699a4e17e67bc4e2444c61b81255"
+        },
+        {
+          "n": 13,
+          "file": "device_base.part013",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "e967c57a1f4553861d435717b16a448401921a6662e2e4c7c157bd40137f0b75"
+        },
+        {
+          "n": 14,
+          "file": "device_base.part014",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "4e6cdb158249492925121d0e7ca4038a726b49605b3d98dfd577daef23328d2b"
+        },
+        {
+          "n": 15,
+          "file": "device_base.part015",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "54e5935b6c64e5c6719e24fbd0c6ed8cf04a9497b86be8f331ef30763c5d122f"
+        },
+        {
+          "n": 16,
+          "file": "device_base.part016",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "69e34d090b4cb171bd4e0b50dab50da3dabd51c8916d8ccc65aa994185f48e75"
+        },
+        {
+          "n": 17,
+          "file": "device_base.part017",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "7d7df8df7c958f71880f04208459a22e6b4f57390834aac3de66ee6ce4d34802"
+        },
+        {
+          "n": 18,
+          "file": "device_base.part018",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "d3b87a08ff8d6a71fe58fda53b2f3332eeef88631d75ecf95f6b01c51e9cdae7"
+        },
+        {
+          "n": 19,
+          "file": "device_base.part019",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "86c1e6275af3e2ae746bd46d616cc4467a70807f00a56afb042b46341290c062"
+        },
+        {
+          "n": 20,
+          "file": "device_base.part020",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "5ed5ed96606773be3c6f8acc32af8bfd6bf5978aaa4d0a56389dd346be835779"
+        },
+        {
+          "n": 21,
+          "file": "device_base.part021",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "406d2b967ab2e962f050672ae3b12e4d6368dbd171ebb737a88611864e114227"
+        },
+        {
+          "n": 22,
+          "file": "device_base.part022",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "8967096b35b5c76317f08e26a17849ed02134bce2b12aec1a055ecba5ee5a224"
+        },
+        {
+          "n": 23,
+          "file": "device_base.part023",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "47544e452ca7d252421df04ebfd21066567cc2a1ebf89d5b3f2ce32f03b26ee3"
+        },
+        {
+          "n": 24,
+          "file": "device_base.part024",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "0c5e8ad586f2b681ee6ab56cb63f5f95ce24c2de3e1264d25e26ef3234deed9a"
+        },
+        {
+          "n": 25,
+          "file": "device_base.part025",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "b1d0501658978b1ec6aeeb3b7e77b0e7ed4dd35021a4d4978a6b23760287f39e"
+        },
+        {
+          "n": 26,
+          "file": "device_base.part026",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "23977938791fa5dd402e1f67f7c653013b95002f53a69fbcf4abd64b72916db0"
+        },
+        {
+          "n": 27,
+          "file": "device_base.part027",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "0d0d36ab0746604f513016e9a6b9122f5163f51824017f44d4e2d108efdfa17a"
+        },
+        {
+          "n": 28,
+          "file": "device_base.part028",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "c3b106197c2a11d5a4ff72dd21f66cf74ae4fe4bbca8f8a6de48674ac8ce62e2"
+        },
+        {
+          "n": 29,
+          "file": "device_base.part029",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "d233eb4cf6c3414ccbdb43ae5ebb0eb4cb7c9ba62d2d46383c2d57af976b3b0f"
+        },
+        {
+          "n": 30,
+          "file": "device_base.part030",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "bd08a5450e2e8147793d0585e94e78fc1eedcdfbd76e2777b78dc3490bef3486"
+        },
+        {
+          "n": 31,
+          "file": "device_base.part031",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "73e4323d71aca97093c26c2ea0f2a821d525be440b07fff03f36e3b7b300fa26"
+        },
+        {
+          "n": 32,
+          "file": "device_base.part032",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "af84a2d76bcc1a2c1d6424aa43372e448618d5107a8ba12a05681d46170fcb87"
+        },
+        {
+          "n": 33,
+          "file": "device_base.part033",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "0aeda16e48ffa23b89938908580f618e7f51ee7bde7f6336006cf2d5f8411417"
+        },
+        {
+          "n": 34,
+          "file": "device_base.part034",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "684932bf499f243f118a726c3240d13042d2b112ec0373e5fefa11f573c59393"
+        },
+        {
+          "n": 35,
+          "file": "device_base.part035",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "1328b139288d2ce06b77214b26b745522fd024daeec7f846677989f3e09c5b37"
+        },
+        {
+          "n": 36,
+          "file": "device_base.part036",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "03cca01b6fec955deec43e1612bf1c4fc3c17ed6d04b206925faaf720a8d90f4"
+        },
+        {
+          "n": 37,
+          "file": "device_base.part037",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "3457bf4bd9ad2c9d62a4d9d02f13c8fdc7f4065f6e85a66bd33f3b4a9e40b59b"
+        },
+        {
+          "n": 38,
+          "file": "device_base.part038",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "3830a413b7aaaeeb33362b259e8d6fd02a751fa5da29a8f83774a3b13cdf54da"
+        },
+        {
+          "n": 39,
+          "file": "device_base.part039",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "76fac0d577f77786cf8ed6aba5abdc17befe31641f6d502d41d99d98fde66159"
+        },
+        {
+          "n": 40,
+          "file": "device_base.part040",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "0a5a68e322cc6c44d32c4c6a5a880d6096294637823179f909c1055f2884ab59"
+        },
+        {
+          "n": 41,
+          "file": "device_base.part041",
+          "repo": "mhls2",
+          "size": 26067152,
+          "sha256": "e536545f6226141c42e735e5d3a652358cdc906196f96220f97581572e9fa27e"
+        }
+      ],
+      "sha256": "4eb57fd0633f00b1bfdcac5cde55e10c086b1fbffca629f839cc2a1901229975"
+    },
+    {
+      "name": "原版apk.zip",
+      "size": 1846161957,
+      "parts": [
+        {
+          "n": 1,
+          "file": "orig_apk.part001",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "0b3c62a885ff8012d2c3bf248ea8103f777ee4167efd5ac5e843ad7bc24791e6"
+        },
+        {
+          "n": 2,
+          "file": "orig_apk.part002",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "05423dfcfbbb0493fe93c18e41441e3c33378e869aeb474f2b61e6e8d1f99941"
+        },
+        {
+          "n": 3,
+          "file": "orig_apk.part003",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "07dfee397192d290342093a5fa6e085832a53adb87e6e0b72bb4be162599ff12"
+        },
+        {
+          "n": 4,
+          "file": "orig_apk.part004",
+          "repo": "mhls2",
+          "size": 47185920,
+          "sha256": "2d2fb7a2e832580418eadce4ecfbe118cace811274de188c35b7523ad25570a0"
+        },
+        {
+          "n": 5,
+          "file": "orig_apk.part005",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "159644d4541da39678529d8efff59c46a0675e1a7ff129966ecc99b68a52a0d1"
+        },
+        {
+          "n": 6,
+          "file": "orig_apk.part006",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "6eddcec700991a4b5899a6b45303e8d195f71bf57b5bc85b9a1e94b0df690c61"
+        },
+        {
+          "n": 7,
+          "file": "orig_apk.part007",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "8f9a99e505a684e439efb0ecb05380b665d24971a2c11921cdadb3df514be644"
+        },
+        {
+          "n": 8,
+          "file": "orig_apk.part008",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "efba6e96ae4296d2b4274ac16e3ab40d0c6662b651c950435ac84ac388b59e70"
+        },
+        {
+          "n": 9,
+          "file": "orig_apk.part009",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "f256f269d5e57a4a9bfc763e928c147adcac1a87316b6ea567b16f94670dc924"
+        },
+        {
+          "n": 10,
+          "file": "orig_apk.part010",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "e99cab923cbbd295d000acc23bb75c30b02df0098864b68ac14fd34fa22c6115"
+        },
+        {
+          "n": 11,
+          "file": "orig_apk.part011",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "72764dc787eb29248d0392f439f2740adbe49323c22e4c272a74804f812cf045"
+        },
+        {
+          "n": 12,
+          "file": "orig_apk.part012",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "78d6303c672cb8eb429f31380cd4843c088fe6af2ac283fafb90bc317c9afac2"
+        },
+        {
+          "n": 13,
+          "file": "orig_apk.part013",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "eb4a4ba4acd209e2d0170ad28809bed677e8aa3d8e85461eb3ccb7570516bc53"
+        },
+        {
+          "n": 14,
+          "file": "orig_apk.part014",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "780c5563876b788aa5c00b0c2067616b8e8e9a71ca75b8a42378d68dc2e4969a"
+        },
+        {
+          "n": 15,
+          "file": "orig_apk.part015",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "c619692073b3d9eb10d5185e54eb74d29b6400a7872a9aae991b4f99c3035625"
+        },
+        {
+          "n": 16,
+          "file": "orig_apk.part016",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "ccd43192b7ef3e9e441f933081952d81a7d3390d3d9497f4f4057f0a3cc7e193"
+        },
+        {
+          "n": 17,
+          "file": "orig_apk.part017",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "2a5bd37e32b2328dc0616ba19212560b32c29af796d0287fbe15ad91ca8e7a23"
+        },
+        {
+          "n": 18,
+          "file": "orig_apk.part018",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "81e73207a738951704aa8d1f4a7a2b69e3a62de2aab4867d99f961b0a59a52e3"
+        },
+        {
+          "n": 19,
+          "file": "orig_apk.part019",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "869f0fc0643eac0d00e856d855ceff09a00a7a6bb1d06db61afe2497930549a6"
+        },
+        {
+          "n": 20,
+          "file": "orig_apk.part020",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "88c36a7cbf0dd64a98e264ade382a2d91640633f48193e33328510d9ede218f2"
+        },
+        {
+          "n": 21,
+          "file": "orig_apk.part021",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "780dcac4db60fddcaadcfff1e24efe5912ee1da85e39497dbd3c4ae3ed3e97ba"
+        },
+        {
+          "n": 22,
+          "file": "orig_apk.part022",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "13ee446b253d874efbf9cedae28e73da86a7842513d4b57e781d96c8f364d24f"
+        },
+        {
+          "n": 23,
+          "file": "orig_apk.part023",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "77ad80321c3a9d63a2572e35f33e903a5dc35fdf807118404e277c529c028d7a"
+        },
+        {
+          "n": 24,
+          "file": "orig_apk.part024",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "8fa0f5ee634f02d27c2dbb94ccf903bf30d5b787f0a79c7b7c69ba897619c17b"
+        },
+        {
+          "n": 25,
+          "file": "orig_apk.part025",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "b22cbee72df3b82b29e8e766981f6a5701c385fdee08debc3ed9beb0224c04a4"
+        },
+        {
+          "n": 26,
+          "file": "orig_apk.part026",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "f6d4466c3467b49dbf5da7858ac21612c08852fc111f658bc8b6598dae89121e"
+        },
+        {
+          "n": 27,
+          "file": "orig_apk.part027",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "f3cb8483f7a82191e4f2ed1e75d8c9d0752383ce99b60a75e8a880938a933747"
+        },
+        {
+          "n": 28,
+          "file": "orig_apk.part028",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "2105e6e3bf571c3783df4118e0357ad16bc75330937f03312037fa73147b6234"
+        },
+        {
+          "n": 29,
+          "file": "orig_apk.part029",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "68647f34571b0c117627a63422bdb8d36ab51b5673751503242849754695b31a"
+        },
+        {
+          "n": 30,
+          "file": "orig_apk.part030",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "a35bebee1f8f3bcaa7588614a4ab7e6da50d5059d9a21e42fca1d2cf4b0e084d"
+        },
+        {
+          "n": 31,
+          "file": "orig_apk.part031",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "467a3677c3efa91b0eb3c049a36a9acb6de3cbcfe854d03604a30f3ebad2536f"
+        },
+        {
+          "n": 32,
+          "file": "orig_apk.part032",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "71a440d48ddfc64844aceb97ed533f0d6265f00580448124cd2637a4192d6f97"
+        },
+        {
+          "n": 33,
+          "file": "orig_apk.part033",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "c04e121914671e7fb88308543c0bb65bf4c67e28ebb2655a2b2cdc0a0bf124dd"
+        },
+        {
+          "n": 34,
+          "file": "orig_apk.part034",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "c27248d5bf5a9614a0930d4cd00e86e441550e67744c8d66cff62129366f7e5f"
+        },
+        {
+          "n": 35,
+          "file": "orig_apk.part035",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "48b61ef350c05c32efa5bb9342b0a4387af57721fb43a452377c5c69e7c4d54d"
+        },
+        {
+          "n": 36,
+          "file": "orig_apk.part036",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "02d892d90650f42e4c72ee65ab990573424d0f275f39ff2662e2e9dc5a3c1fdb"
+        },
+        {
+          "n": 37,
+          "file": "orig_apk.part037",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "20b6eb8eaabfe24fdd6571fec23c658d724c02246462aa38e742230c9dca4634"
+        },
+        {
+          "n": 38,
+          "file": "orig_apk.part038",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "3274faf4b53babc2595b1dbc5242e40503a6a737d85f2940c65e6a95b765dab8"
+        },
+        {
+          "n": 39,
+          "file": "orig_apk.part039",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "998dfae0b9ee968b5c55d02d68fc2a47644f4f8343feb1e44c681307636d0f00"
+        },
+        {
+          "n": 40,
+          "file": "orig_apk.part040",
+          "repo": "mhls3",
+          "size": 5911077,
+          "sha256": "14f0511fd6d996f9008079315741db224554cb3868941bff2d7f767cb5df2bf5"
+        }
+      ],
+      "sha256": "9f08c2a2146fffa6c284858ad7a8f8c54c8930a5a96e7d1794952dc58b72ef54"
+    },
+    {
+      "name": "数据.zip",
+      "size": 222115497,
+      "parts": [
+        {
+          "n": 1,
+          "file": "data_pack.part001",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "a629acd6d28d54f3f74f71a557678039c3f7f32b2a538383beb8217f4239a11c"
+        },
+        {
+          "n": 2,
+          "file": "data_pack.part002",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "e861fefa297b6e5a835e287f7838814b7bda356215260e303fdf760a62594546"
+        },
+        {
+          "n": 3,
+          "file": "data_pack.part003",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "bddcaf6ee16bc1b07493646282a12501c0202c2599817c6e2a71bd0996a1180a"
+        },
+        {
+          "n": 4,
+          "file": "data_pack.part004",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "3243296b4df8a13c7714da8c0b4cbd936b89f30201213a50c59bc388b9d2def9"
+        },
+        {
+          "n": 5,
+          "file": "data_pack.part005",
+          "repo": "mhls3",
+          "size": 33371817,
+          "sha256": "c1006d02f15746386c14853011adaf56a81f8469c62202441e894c5bedfd95fc"
+        }
+      ],
+      "sha256": "647157df01ae53783721826530bf9bf06de3d5302c843907e85c5588d64c3829"
+    },
+    {
+      "name": "PLAINS.zip",
+      "size": 113874866,
+      "parts": [
+        {
+          "n": 1,
+          "file": "plains.part001",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "7964034369d4018458427db95b32fe99c739203d98fa32ae23d16ff448427eff"
+        },
+        {
+          "n": 2,
+          "file": "plains.part002",
+          "repo": "mhls3",
+          "size": 47185920,
+          "sha256": "8c6e97726d006acc2731e584af27cc546ebabd34b039a7630f8e23b31a3cc867"
+        },
+        {
+          "n": 3,
+          "file": "plains.part003",
+          "repo": "mhls3",
+          "size": 19503026,
+          "sha256": "852087c1b9246168d677a0ded91de9e82ba6ba11e49aec6dbef0f19d303debfa"
+        }
+      ],
+      "sha256": "67fcdbab3e99ea128548810b906e0e666c9d67f951dc963a862b56801bc9d1cf"
+    }
+  ]
+}
